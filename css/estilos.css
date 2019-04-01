@@ -1,0 +1,32 @@
+/* 
+	Hoja de estilos para ejercicio/proyecto: XXXXXX
+	
+	Secciones: 
+	$1: Estilos base
+	$2: Estilos tipográficos
+	$3: XXXX
+
+*/
+
+/* $1: Estilos base */
+
+* { box-sizing: border-box; }
+
+
+/* $2: Estilos tipográficos */
+
+body {
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+
+h1 {
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+/* $3: XXXX */
